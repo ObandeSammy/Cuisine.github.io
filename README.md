@@ -1,2 +1,0 @@
-# Cuisine.github.io
-Cuisines
